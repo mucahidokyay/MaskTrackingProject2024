@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{1DCF0ADA-D896-4583-9491-A6B2074559C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{D8FE4F18-38AD-49D9-9832-CB9C07917D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{67EFFD81-C5DC-4BB9-B03B-3A2BD1865749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCF0ADA-D896-4583-9491-A6B2074559C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCF0ADA-D896-4583-9491-A6B2074559C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCF0ADA-D896-4583-9491-A6B2074559C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCF0ADA-D896-4583-9491-A6B2074559C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FE4F18-38AD-49D9-9832-CB9C07917D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FE4F18-38AD-49D9-9832-CB9C07917D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FE4F18-38AD-49D9-9832-CB9C07917D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FE4F18-38AD-49D9-9832-CB9C07917D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EFFD81-C5DC-4BB9-B03B-3A2BD1865749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EFFD81-C5DC-4BB9-B03B-3A2BD1865749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EFFD81-C5DC-4BB9-B03B-3A2BD1865749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EFFD81-C5DC-4BB9-B03B-3A2BD1865749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B65CA77-1F6F-48F5-AC14-AE10900E12C1}
+	EndGlobalSection
+EndGlobal
